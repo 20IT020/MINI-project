@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Driving test</string>
+    <string name="Start">Start</string>
+    <string name="title">Driving Licence Test</string>
+    <string name="mode">Choose Mode</string>
+    <string name="Free">Free Mode</string>
+    <string name="Timer">Timer Mode</string>
+    <string name="About">About us</string>
+    <string name="Help">Help</string>
+    <string name="exit">Exit</string>
+    <string name="rate">Rate Us</string>
+    <string name="q15">15 Questions</string>
+    <string name="q30">30 Questions</string>
+    <string name="q45">45 Questions</string>
+    <string name="back">Back</string>
+    <string name="Confirm">Confirm</string>
+    <string name="ques">Choose Number Of Questions</string>
+</resources>
